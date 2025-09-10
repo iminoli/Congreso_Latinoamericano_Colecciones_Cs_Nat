@@ -1,4 +1,4 @@
-# Congreso_Latinoamericano_Colecciones_Cs_Nat
+# 1er Congreso Latinoamericano de Gestión, Manejo y Conservación de Colecciones de Ciencias Naturales. Organizado por la Fundación Azara y la Universidad Maimónides, del 21 al 24 de octubre de 2025
 
 Este es un Repositorio de mapas a partir de la Colección del Laboratorio de Genética Evolutiva (LGE).
 
