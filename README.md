@@ -2,7 +2,7 @@
 
 Este es un Repositorio de mapas a partir de la Colección del Laboratorio de Genética Evolutiva (LGE).
 
-# CURACIÓN DE DATOS DE COLECCIÓN COMO LÍNEA DE BASE PARA EL ANÁLISIS DE COMUNIDADES DE ANFIBIOS
+## CURACIÓN DE DATOS DE COLECCIÓN COMO LÍNEA DE BASE PARA EL ANÁLISIS DE COMUNIDADES DE ANFIBIOS
 
 Benítez MF -1-, Minoli I -1- y Baldo D -1-
 
